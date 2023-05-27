@@ -42,11 +42,8 @@ White: #FFF
     height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center;}
 
-  }
-  
   .hero-text {
     text-align: center;
     color: #fff;
@@ -62,3 +59,72 @@ White: #FFF
     font-size: 30px;
     list-style: none;
   }
+
+  
+.Barcenter {
+  text-align: center;
+  background-color: #ffffff;
+  font-weight: bold;
+  text-decoration: underline green;
+  font-size: 30px;
+  margin: 0px;
+  text-underline-offset: 8px;
+  
+}  
+
+
+.Conteiner-box {
+  display: flex;
+  flex-wrap: row;
+  justify-content: space-evenly;
+  }
+
+.Box-Sound {
+  border: solid 5px yellow;
+  text-align: center;
+  width: 240px;
+  height: 200px;
+  box-sizing: border-box;
+}
+.title1{
+  text-align: center;
+  color: green;
+}
+.text-sound  {
+  text-align: center;
+
+}
+
+.Box-HD {
+  border: solid 5px yellow;
+  text-align: center;
+  width: 240px;
+  height: 200px;
+  box-sizing: border-box;
+}
+.title2 {
+  text-align: center;
+  color: green;
+}
+.Text-HD {
+  text-align: center;
+}
+
+.Box-Stream {
+  border: solid 5px yellow;
+  text-align: center;
+  width: 240px;
+  height: 200px;
+  box-sizing: border-box;
+}
+.title3 {
+  text-align: center;
+  color: green;
+}
+.text-stream {
+  text-align: center;
+}
+
+
+
+
