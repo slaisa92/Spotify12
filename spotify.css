@@ -65,7 +65,7 @@ White: #FFF
   text-align: center;
   background-color: #ffffff;
   font-weight: bold;
-  text-decoration: underline green;
+  text-decoration: underline #1DB954;
   font-size: 30px;
   margin: 0px;
   text-underline-offset: 8px;
@@ -88,7 +88,7 @@ White: #FFF
 }
 .title1{
   text-align: center;
-  color: green;
+  color: #1DB954;
 }
 .text-sound  {
   text-align: center;
@@ -104,7 +104,7 @@ White: #FFF
 }
 .title2 {
   text-align: center;
-  color: green;
+  color: #1DB954;
 }
 .Text-HD {
   text-align: center;
@@ -119,11 +119,76 @@ White: #FFF
 }
 .title3 {
   text-align: center;
-  color: green;
+  color: #1DB954;
 }
 .text-stream {
   text-align: center;
 }
+
+.footer-box {
+  display: inline-block;
+  background-color: #1DB954;
+  color: white;
+  position:relative; 
+  width: 1250px;
+  height: 500px;
+  box-sizing: border-box;
+  vertical-align: middle; 
+  margin: 0;
+}
+
+.footer-title {
+  color: white;
+  position:relative; 
+  top: 40px;
+  margin: 20px;
+  text-decoration: underline;
+  text-underline-offset: 8px;
+  width: 300px ;
+}
+
+.search-text {
+  color: white;
+  position:relative; 
+  top: 40px;
+  margin: 20px;
+  width: 300px 
+}
+.textend1 {
+  list-style-type: none;
+}
+
+.browse-text {
+  position:relative; 
+  top: 40px;
+  margin: 20px;
+  width: 300px 
+}
+.textend2 {
+  list-style-type: none;
+}
+
+.discover-text {
+  position:relative; 
+  top: 40px;
+  margin: 20px;
+  width: 300px 
+}
+.textend3 {
+  list-style-type: none;
+}
+
+.spotify-icon {
+  width: 100px;
+  position: absolute;
+  top: 100px;
+  left: 450px;
+}
+.Kenyewest {
+  width: 250px;
+  position: absolute;
+  bottom: 0%;
+  left: 800px;}
 
 
 
